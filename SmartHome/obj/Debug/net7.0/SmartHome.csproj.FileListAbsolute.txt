@@ -1,0 +1,14 @@
+C:\Users\Bogda\Desktop\,\коды\3лабаООП\SmartHome\obj\Debug\net7.0\SmartHome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bogda\Desktop\,\коды\3лабаООП\SmartHome\obj\Debug\net7.0\SmartHome.AssemblyInfoInputs.cache
+C:\Users\Bogda\Desktop\,\коды\3лабаООП\SmartHome\obj\Debug\net7.0\SmartHome.AssemblyInfo.cs
+C:\Users\Bogda\Desktop\,\коды\3лабаООП\SmartHome\obj\Debug\net7.0\SmartHome.csproj.CoreCompileInputs.cache
+C:\Users\Bogda\Desktop\,\коды\3лабаООП\SmartHome\bin\Debug\net7.0\SmartHome.exe
+C:\Users\Bogda\Desktop\,\коды\3лабаООП\SmartHome\bin\Debug\net7.0\SmartHome.deps.json
+C:\Users\Bogda\Desktop\,\коды\3лабаООП\SmartHome\bin\Debug\net7.0\SmartHome.runtimeconfig.json
+C:\Users\Bogda\Desktop\,\коды\3лабаООП\SmartHome\bin\Debug\net7.0\SmartHome.dll
+C:\Users\Bogda\Desktop\,\коды\3лабаООП\SmartHome\bin\Debug\net7.0\SmartHome.pdb
+C:\Users\Bogda\Desktop\,\коды\3лабаООП\SmartHome\obj\Debug\net7.0\SmartHome.dll
+C:\Users\Bogda\Desktop\,\коды\3лабаООП\SmartHome\obj\Debug\net7.0\refint\SmartHome.dll
+C:\Users\Bogda\Desktop\,\коды\3лабаООП\SmartHome\obj\Debug\net7.0\SmartHome.pdb
+C:\Users\Bogda\Desktop\,\коды\3лабаООП\SmartHome\obj\Debug\net7.0\SmartHome.genruntimeconfig.cache
+C:\Users\Bogda\Desktop\,\коды\3лабаООП\SmartHome\obj\Debug\net7.0\ref\SmartHome.dll

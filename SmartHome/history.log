@@ -1,0 +1,225 @@
+[2025-11-28 21:08:33] Light 'Основной свет' desired state changed to: ON
+[2025-11-28 21:09:00] Thermostat 'Термостат' current temperature changed to: 30°C
+[2025-11-28 21:09:07] Thermostat 'Термостат' current temperature changed to: 30°C
+[2025-11-28 21:09:13] Thermostat 'Термостат' current temperature changed to: 30°C
+[2025-11-28 21:09:28] Основной свет turned on
+[2025-11-28 21:09:28] Light 'Основной свет' automation applied: State=True, Brightness=0%
+[2025-11-28 21:09:28] Автоматизация применена ко всем устройствам
+[2025-11-28 21:09:43] Motion detected in Гостиная, lights automation applied
+[2025-11-28 21:09:43] Event published: MotionDetected, Payload: Гостиная
+[2025-11-28 21:09:47] Motion detected in Спальня, lights automation applied
+[2025-11-28 21:09:47] Event published: MotionDetected, Payload: Спальня
+[2025-11-28 21:10:04] Light 'Основной свет' desired state changed to: ON
+[2025-11-28 21:10:04] Light 'Прикроватный свет' desired state changed to: ON
+[2025-11-28 21:10:04] Light 'Кухонный свет' desired state changed to: ON
+[2025-11-28 21:10:29] Light 'Основной свет' desired state changed to: ON
+[2025-11-28 21:10:29] Light 'Основной свет' desired brightness changed to: 50%
+[2025-11-28 21:10:29] Light 'Прикроватный свет' desired state changed to: ON
+[2025-11-28 21:10:29] Light 'Прикроватный свет' desired brightness changed to: 50%
+[2025-11-28 21:10:29] Light 'Кухонный свет' desired state changed to: ON
+[2025-11-28 21:10:29] Light 'Кухонный свет' desired brightness changed to: 50%
+[2025-11-28 21:21:45] Light 'Основной свет' automation applied: State=False, Brightness=0%
+[2025-11-28 21:21:45] Thermostat 'Термостат' current temperature changed to: 22°C
+[2025-11-28 21:21:45] Light 'Прикроватный свет' automation applied: State=False, Brightness=0%
+[2025-11-28 21:21:45] Thermostat 'Термостат' current temperature changed to: 22°C
+[2025-11-28 21:21:45] Light 'Кухонный свет' automation applied: State=False, Brightness=0%
+[2025-11-28 21:21:45] Thermostat 'Термостат' current temperature changed to: 22°C
+[2025-11-28 21:21:45] Автоматизация применена ко всем устройствам
+[2025-11-28 21:22:04] Thermostat 'Термостат' current temperature changed to: 40°C
+[2025-11-28 21:22:39] Light 'Основной свет' automation applied: State=False, Brightness=0%
+[2025-11-28 21:22:39] Thermostat 'Термостат' current temperature changed to: 22°C
+[2025-11-28 21:22:39] Light 'Прикроватный свет' automation applied: State=False, Brightness=0%
+[2025-11-28 21:22:39] Thermostat 'Термостат' current temperature changed to: 22°C
+[2025-11-28 21:22:39] Light 'Кухонный свет' automation applied: State=False, Brightness=0%
+[2025-11-28 21:22:39] Thermostat 'Термостат' current temperature changed to: 22°C
+[2025-11-28 21:22:39] Автоматизация применена ко всем устройствам
+[2025-11-28 21:22:54] Motion detected in Гостиная, lights automation applied
+[2025-11-28 21:22:54] Event published: MotionDetected, Payload: Гостиная
+[2025-11-28 21:30:10] Event published: MotionDetected, Payload: Гостиная
+[2025-11-28 21:30:10] Light 'Основной свет' desired state changed to: ON
+[2025-11-28 21:30:10] Light 'Основной свет' desired brightness changed to: 70%
+[2025-11-28 21:30:10] Основной свет turned on
+[2025-11-28 21:30:10] Основной свет turned on
+[2025-11-28 21:30:10] Light 'Основной свет' automation applied: State=True, Brightness=70%
+[2025-11-28 21:30:10] Motion detected in Гостиная, all lights turned on
+[2025-11-28 21:30:22] Event published: MotionDetected, Payload: Спальня
+[2025-11-28 21:30:22] Light 'Прикроватный свет' desired state changed to: ON
+[2025-11-28 21:30:22] Light 'Прикроватный свет' desired brightness changed to: 70%
+[2025-11-28 21:30:22] Прикроватный свет turned on
+[2025-11-28 21:30:22] Прикроватный свет turned on
+[2025-11-28 21:30:22] Light 'Прикроватный свет' automation applied: State=True, Brightness=70%
+[2025-11-28 21:30:22] Motion detected in Спальня, all lights turned on
+[2025-11-28 21:35:04] Light 'Основной свет' automation applied: State=False, Brightness=0%
+[2025-11-28 21:35:04] Thermostat 'Термостат' current temperature changed to: 22°C
+[2025-11-28 21:35:04] Light 'Прикроватный свет' automation applied: State=False, Brightness=0%
+[2025-11-28 21:35:04] Thermostat 'Термостат' current temperature changed to: 22°C
+[2025-11-28 21:35:04] Light 'Кухонный свет' automation applied: State=False, Brightness=0%
+[2025-11-28 21:35:04] Thermostat 'Термостат' current temperature changed to: 22°C
+[2025-11-28 21:35:04] Автоматизация применена ко всем устройствам
+[2025-11-28 21:35:22] Light 'Основной свет' desired brightness changed to: 0%
+[2025-11-28 21:35:47] Light 'Основной свет' automation applied: State=False, Brightness=0%
+[2025-11-28 21:35:47] Thermostat 'Термостат' current temperature changed to: 1°C
+[2025-11-28 21:35:47] Light 'Прикроватный свет' automation applied: State=False, Brightness=0%
+[2025-11-28 21:35:47] Thermostat 'Термостат' current temperature changed to: 22°C
+[2025-11-28 21:35:47] Light 'Кухонный свет' automation applied: State=False, Brightness=0%
+[2025-11-28 21:35:47] Thermostat 'Термостат' current temperature changed to: 22°C
+[2025-11-28 21:35:47] Автоматизация применена ко всем устройствам
+[2025-11-28 21:36:00] Light 'Основной свет' desired state changed to: ON
+[2025-11-28 21:36:00] Light 'Основной свет' desired brightness changed to: 50%
+[2025-11-28 21:36:00] Light 'Прикроватный свет' desired state changed to: ON
+[2025-11-28 21:36:00] Light 'Прикроватный свет' desired brightness changed to: 50%
+[2025-11-28 21:36:00] Light 'Кухонный свет' desired state changed to: ON
+[2025-11-28 21:36:00] Light 'Кухонный свет' desired brightness changed to: 50%
+[2025-11-28 21:36:05] Основной свет turned on
+[2025-11-28 21:36:05] Основной свет turned on
+[2025-11-28 21:36:05] Light 'Основной свет' automation applied: State=True, Brightness=50%
+[2025-11-28 21:36:05] Thermostat 'Термостат' current temperature changed to: 22°C
+[2025-11-28 21:36:05] Прикроватный свет turned on
+[2025-11-28 21:36:05] Прикроватный свет turned on
+[2025-11-28 21:36:05] Light 'Прикроватный свет' automation applied: State=True, Brightness=50%
+[2025-11-28 21:36:05] Thermostat 'Термостат' current temperature changed to: 22°C
+[2025-11-28 21:36:05] Кухонный свет turned on
+[2025-11-28 21:36:05] Кухонный свет turned on
+[2025-11-28 21:36:05] Light 'Кухонный свет' automation applied: State=True, Brightness=50%
+[2025-11-28 21:36:05] Thermostat 'Термостат' current temperature changed to: 22°C
+[2025-11-28 21:36:05] Автоматизация применена ко всем устройствам
+[2025-11-28 21:36:12] Light 'Основной свет' desired state changed to: ON
+[2025-11-28 21:36:12] Light 'Основной свет' desired brightness changed to: 100%
+[2025-11-28 21:36:12] Light 'Прикроватный свет' desired state changed to: ON
+[2025-11-28 21:36:12] Light 'Прикроватный свет' desired brightness changed to: 100%
+[2025-11-28 21:36:12] Light 'Кухонный свет' desired state changed to: ON
+[2025-11-28 21:36:12] Light 'Кухонный свет' desired brightness changed to: 100%
+[2025-11-28 21:36:15] Основной свет turned on
+[2025-11-28 21:36:15] Light 'Основной свет' automation applied: State=True, Brightness=100%
+[2025-11-28 21:36:15] Thermostat 'Термостат' current temperature changed to: 20°C
+[2025-11-28 21:36:15] Прикроватный свет turned on
+[2025-11-28 21:36:15] Light 'Прикроватный свет' automation applied: State=True, Brightness=100%
+[2025-11-28 21:36:15] Thermostat 'Термостат' current temperature changed to: 20°C
+[2025-11-28 21:36:15] Кухонный свет turned on
+[2025-11-28 21:36:15] Light 'Кухонный свет' automation applied: State=True, Brightness=100%
+[2025-11-28 21:36:15] Thermostat 'Термостат' current temperature changed to: 20°C
+[2025-11-28 21:36:15] Автоматизация применена ко всем устройствам
+[2025-11-28 21:55:30] Основной свет turned on
+[2025-11-28 21:55:30] Основной свет turned on
+[2025-11-28 21:55:30] Thermostat 'Термостат' current temperature changed to: 22,0°C
+[2025-11-28 21:55:30] Обогреватель turned on
+[2025-11-28 21:55:30] All devices turned on in room: Гостиная
+[2025-11-28 21:56:02] Light 'Прикроватный свет' desired brightness changed to: 58%
+[2025-11-28 21:56:11] Основной свет turned off
+[2025-11-28 21:56:11] Light 'Основной свет' automation applied: State=False, Brightness=0%
+[2025-11-28 21:56:11] Thermostat 'Термостат' current temperature changed to: 22°C
+[2025-11-28 21:56:11] Прикроватный свет turned on
+[2025-11-28 21:56:11] Прикроватный свет turned on
+[2025-11-28 21:56:11] Light 'Прикроватный свет' automation applied: State=True, Brightness=58%
+[2025-11-28 21:56:11] Thermostat 'Термостат' current temperature changed to: 22°C
+[2025-11-28 21:56:11] Light 'Кухонный свет' automation applied: State=False, Brightness=0%
+[2025-11-28 21:56:11] Thermostat 'Термостат' current temperature changed to: 22°C
+[2025-11-28 21:56:11] Автоматизация применена ко всем устройствам
+[2025-11-28 21:56:20] Event published: MotionDetected, Payload: Гостиная
+[2025-11-28 21:56:20] Light 'Основной свет' desired state changed to: ON
+[2025-11-28 21:56:20] Light 'Основной свет' desired brightness changed to: 70%
+[2025-11-28 21:56:20] Основной свет turned on
+[2025-11-28 21:56:20] Основной свет turned on
+[2025-11-28 21:56:20] Light 'Основной свет' automation applied: State=True, Brightness=70%
+[2025-11-28 21:56:20] Motion detected in Гостиная, all lights turned on
+[2025-12-13 14:26:38] Light 'Основной свет' automation applied: State=False, Brightness=0%
+[2025-12-13 14:26:38] Thermostat 'Термостат' current temperature changed to: 22°C
+[2025-12-13 14:26:38] Light 'Прикроватный свет' automation applied: State=False, Brightness=0%
+[2025-12-13 14:26:38] Thermostat 'Термостат' current temperature changed to: 22°C
+[2025-12-13 14:26:38] Light 'Кухонный свет' automation applied: State=False, Brightness=0%
+[2025-12-13 14:26:38] Thermostat 'Термостат' current temperature changed to: 22°C
+[2025-12-13 14:26:38] Автоматизация применена ко всем устройствам
+[2025-12-13 14:27:22] Light 'Основной свет' automation applied: State=False, Brightness=0%
+[2025-12-13 14:27:22] Thermostat 'Термостат' current temperature changed to: 27°C
+[2025-12-13 14:27:22] Light 'Прикроватный свет' automation applied: State=False, Brightness=0%
+[2025-12-13 14:27:22] Thermostat 'Термостат' current temperature changed to: 22°C
+[2025-12-13 14:27:22] Light 'Кухонный свет' automation applied: State=False, Brightness=0%
+[2025-12-13 14:27:22] Thermostat 'Термостат' current temperature changed to: 22°C
+[2025-12-13 14:27:22] Автоматизация применена ко всем устройствам
+[2025-12-13 14:27:26] Light 'Основной свет' desired state changed to: ON
+[2025-12-13 14:27:26] Light 'Основной свет' desired brightness changed to: 50%
+[2025-12-13 14:27:26] Light 'Прикроватный свет' desired state changed to: ON
+[2025-12-13 14:27:26] Light 'Прикроватный свет' desired brightness changed to: 50%
+[2025-12-13 14:27:26] Light 'Кухонный свет' desired state changed to: ON
+[2025-12-13 14:27:26] Light 'Кухонный свет' desired brightness changed to: 50%
+[2025-12-13 14:27:33] Основной свет turned on
+[2025-12-13 14:27:33] Основной свет turned on
+[2025-12-13 14:27:33] Light 'Основной свет' automation applied: State=True, Brightness=50%
+[2025-12-13 14:27:33] Thermostat 'Термостат' current temperature changed to: 22°C
+[2025-12-13 14:27:33] Прикроватный свет turned on
+[2025-12-13 14:27:33] Прикроватный свет turned on
+[2025-12-13 14:27:33] Light 'Прикроватный свет' automation applied: State=True, Brightness=50%
+[2025-12-13 14:27:33] Thermostat 'Термостат' current temperature changed to: 22°C
+[2025-12-13 14:27:33] Кухонный свет turned on
+[2025-12-13 14:27:33] Кухонный свет turned on
+[2025-12-13 14:27:33] Light 'Кухонный свет' automation applied: State=True, Brightness=50%
+[2025-12-13 14:27:33] Thermostat 'Термостат' current temperature changed to: 22°C
+[2025-12-13 14:27:33] Автоматизация применена ко всем устройствам
+[2026-01-19 14:43:54] Light 'Основной свет' automation applied: State=False, Brightness=0%
+[2026-01-19 14:43:54] Thermostat 'Термостат' current temperature changed to: 22°C
+[2026-01-19 14:43:54] Light 'Прикроватный свет' automation applied: State=False, Brightness=0%
+[2026-01-19 14:43:54] Thermostat 'Термостат' current temperature changed to: 22°C
+[2026-01-19 14:43:54] Light 'Кухонный свет' automation applied: State=False, Brightness=0%
+[2026-01-19 14:43:54] Thermostat 'Термостат' current temperature changed to: 22°C
+[2026-01-19 14:43:54] Автоматизация применена ко всем устройствам
+[2026-01-19 14:44:04] Light 'Основной свет' desired state changed to: ON
+[2026-01-19 14:44:04] Light 'Основной свет' desired brightness changed to: 70%
+[2026-01-19 14:44:04] Light 'Прикроватный свет' desired state changed to: ON
+[2026-01-19 14:44:04] Light 'Прикроватный свет' desired brightness changed to: 70%
+[2026-01-19 14:44:04] Light 'Кухонный свет' desired state changed to: ON
+[2026-01-19 14:44:04] Light 'Кухонный свет' desired brightness changed to: 70%
+[2026-01-19 14:44:11] Основной свет turned on
+[2026-01-19 14:44:11] Основной свет turned on
+[2026-01-19 14:44:11] Light 'Основной свет' automation applied: State=True, Brightness=70%
+[2026-01-19 14:44:11] Thermostat 'Термостат' current temperature changed to: 24°C
+[2026-01-19 14:44:11] Прикроватный свет turned on
+[2026-01-19 14:44:11] Прикроватный свет turned on
+[2026-01-19 14:44:11] Light 'Прикроватный свет' automation applied: State=True, Brightness=70%
+[2026-01-19 14:44:11] Thermostat 'Термостат' current temperature changed to: 24°C
+[2026-01-19 14:44:11] Кухонный свет turned on
+[2026-01-19 14:44:11] Кухонный свет turned on
+[2026-01-19 14:44:11] Light 'Кухонный свет' automation applied: State=True, Brightness=70%
+[2026-01-19 14:44:11] Thermostat 'Термостат' current temperature changed to: 24°C
+[2026-01-19 14:44:11] Автоматизация применена ко всем устройствам
+[2026-01-19 15:29:19] Light 'Основной свет' desired state changed to: ON
+[2026-01-19 15:29:19] Light 'Прикроватный свет' desired state changed to: ON
+[2026-01-19 15:29:19] Light 'Кухонный свет' desired state changed to: ON
+[2026-01-19 15:29:32] Основной свет turned on
+[2026-01-19 15:29:32] Light 'Основной свет' automation applied: State=True, Brightness=0%
+[2026-01-19 15:29:32] Thermostat 'Термостат' current temperature changed to: 28°C
+[2026-01-19 15:29:32] Прикроватный свет turned on
+[2026-01-19 15:29:32] Light 'Прикроватный свет' automation applied: State=True, Brightness=0%
+[2026-01-19 15:29:32] Thermostat 'Термостат' current temperature changed to: 28°C
+[2026-01-19 15:29:32] Кухонный свет turned on
+[2026-01-19 15:29:32] Light 'Кухонный свет' automation applied: State=True, Brightness=0%
+[2026-01-19 15:29:32] Thermostat 'Термостат' current temperature changed to: 28°C
+[2026-01-19 15:29:32] Автоматизация применена ко всем устройствам
+[2026-01-19 15:29:44] Event published: MotionDetected, Payload: Гостиная
+[2026-01-19 15:29:44] Light 'Основной свет' desired state changed to: ON
+[2026-01-19 15:29:44] Light 'Основной свет' desired brightness changed to: 70%
+[2026-01-19 15:29:44] Основной свет turned on
+[2026-01-19 15:29:44] Light 'Основной свет' automation applied: State=True, Brightness=70%
+[2026-01-19 15:29:44] Motion detected in Гостиная, all lights turned on
+[2026-01-19 15:30:04] Light 'Основной свет' automation applied: State=True, Brightness=70%
+[2026-01-19 15:30:04] Thermostat 'Термостат' current temperature changed to: 28°C
+[2026-01-19 15:30:04] Light 'Прикроватный свет' automation applied: State=True, Brightness=0%
+[2026-01-19 15:30:04] Thermostat 'Термостат' current temperature changed to: 28°C
+[2026-01-19 15:30:04] Light 'Кухонный свет' automation applied: State=True, Brightness=0%
+[2026-01-19 15:30:04] Thermostat 'Термостат' current temperature changed to: 28°C
+[2026-01-19 15:30:04] Автоматизация применена ко всем устройствам
+[2026-01-19 15:30:14] Light 'Основной свет' desired state changed to: ON
+[2026-01-19 15:30:14] Light 'Основной свет' desired brightness changed to: 100%
+[2026-01-19 15:30:14] Light 'Прикроватный свет' desired state changed to: ON
+[2026-01-19 15:30:14] Light 'Прикроватный свет' desired brightness changed to: 100%
+[2026-01-19 15:30:14] Light 'Кухонный свет' desired state changed to: ON
+[2026-01-19 15:30:14] Light 'Кухонный свет' desired brightness changed to: 100%
+[2026-01-19 15:30:22] Основной свет turned on
+[2026-01-19 15:30:22] Light 'Основной свет' automation applied: State=True, Brightness=100%
+[2026-01-19 15:30:22] Thermostat 'Термостат' current temperature changed to: 20°C
+[2026-01-19 15:30:22] Прикроватный свет turned on
+[2026-01-19 15:30:22] Light 'Прикроватный свет' automation applied: State=True, Brightness=100%
+[2026-01-19 15:30:22] Thermostat 'Термостат' current temperature changed to: 20°C
+[2026-01-19 15:30:22] Кухонный свет turned on
+[2026-01-19 15:30:22] Light 'Кухонный свет' automation applied: State=True, Brightness=100%
+[2026-01-19 15:30:22] Thermostat 'Термостат' current temperature changed to: 20°C
+[2026-01-19 15:30:22] Автоматизация применена ко всем устройствам
